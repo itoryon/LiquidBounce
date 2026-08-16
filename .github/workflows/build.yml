@@ -1,10 +1,7 @@
 name: Build
 
 on:
-  push:
-    branches: [ nextgen ]
-  pull_request:
-    branches: [ nextgen ]
+  workflow_dispatch: 
 
 jobs:
   extract-versions:

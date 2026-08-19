@@ -578,7 +578,6 @@ object ModuleManager : EventListener, Collection<ClientModule> by modules {
             ModuleReverseStep,
             ModuleStrafe,
             ModuleTerrainSpeed,
-            ModuleTridentBoost,
             ModuleVehicleBoost,
             ModuleVehicleControl,
             ModuleSpider,

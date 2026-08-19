@@ -179,7 +179,8 @@
     "truffle.MixinCommonJSRequireBuiltin",
     "truffle.MixinNpmCompatibleESModuleLoader",
     "truffle.MixinTruffleLanguage",
-    "viaversion.MixinPacketWrapper"
+    "viaversion.MixinPacketWrapper",
+    "minecraft.item.MixinTridentItem"
   ],
   "server": [],
   "injectors": {
